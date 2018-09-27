@@ -12,7 +12,16 @@
         android:text="INICIO"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="81dp"
-        tools:layout_editor_absoluteY="45dp" />
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="223dp"
+        android:layout_height="51dp"
+        android:text="CONFIGURACION"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="255dp" />
 
     <Button
         android:id="@+id/button4"
