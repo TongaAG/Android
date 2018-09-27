@@ -90,11 +90,12 @@
         tools:layout_editor_absoluteY="406dp" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Perfil"
-        tools:layout_editor_absoluteX="130dp"
-        tools:layout_editor_absoluteY="0dp" />
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="16dp" />
 
 </android.support.constraint.ConstraintLayout>
