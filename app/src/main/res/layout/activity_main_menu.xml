@@ -54,6 +54,7 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
         android:text="MENU PRINCIPAL"
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="41dp" />
