@@ -11,6 +11,15 @@
         android:layout_height="51dp"
         android:text="INICIO"
         android:textSize="24sp"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="64dp" />
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="223dp"
+        android:layout_height="51dp"
+        android:text="INFORMACION"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="124dp" />
 </android.support.constraint.ConstraintLayout>
