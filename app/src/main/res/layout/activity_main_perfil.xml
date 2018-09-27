@@ -92,7 +92,9 @@
         android:id="@+id/info_cance"
         android:layout_width="115dp"
         android:layout_height="49dp"
+        android:background="@color/common_google_signin_btn_text_dark_focused"
         android:text="Cancelar"
+        android:textColor="@android:color/holo_blue_bright"
         tools:layout_editor_absoluteX="203dp"
         tools:layout_editor_absoluteY="406dp" />
 
