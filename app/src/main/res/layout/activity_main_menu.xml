@@ -9,7 +9,9 @@
         android:id="@+id/button2"
         android:layout_width="223dp"
         android:layout_height="51dp"
+        android:background="@color/common_google_signin_btn_text_dark_focused"
         android:text="INICIO"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="81dp"
         tools:layout_editor_absoluteY="108dp" />
