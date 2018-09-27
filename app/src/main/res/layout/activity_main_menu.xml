@@ -56,6 +56,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/baloo"
         android:text="MENU PRINCIPAL"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="41dp" />
 </android.support.constraint.ConstraintLayout>
