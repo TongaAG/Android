@@ -82,7 +82,9 @@
         android:id="@+id/info_guardar"
         android:layout_width="108dp"
         android:layout_height="49dp"
+        android:background="@color/common_google_signin_btn_text_dark_focused"
         android:text="Guardar"
+        android:textColor="@android:color/holo_blue_bright"
         tools:layout_editor_absoluteX="69dp"
         tools:layout_editor_absoluteY="406dp" />
 
